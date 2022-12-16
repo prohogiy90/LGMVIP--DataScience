@@ -9,4 +9,11 @@ This particular ML project is usually referred to as the “Hello World” of Ma
 Task 2
 
 Stock Market Prediction And Forecasting Using Stacked LSTM
-Datasetlinks: : https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
+Datasetlinks: https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
+
+Task 3
+
+Music Recommendation:
+
+Music recommender systems can suggest songs to users based on their listening patterns.
+Datasetlinks: https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
