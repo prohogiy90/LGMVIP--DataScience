@@ -17,3 +17,11 @@ Music Recommendation:
 
 Music recommender systems can suggest songs to users based on their listening patterns.
 Datasetlinks: https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
+
+Task 5:
+
+Exploratory Data Analysis on Dataset - Terrorism 
+
+As a security/defense analyst, try to find out the hot zone of terrorism.
+You can choose any of the tool of your choice  
+Dataset: https://bit.ly/2TK5Xn5
