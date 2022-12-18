@@ -33,3 +33,9 @@ Dataset: https://bit.ly/2TK5Xn5
 Task 6:
 
 Prediction using Decision Tree  Algorithm. Create the Decision Tree classifier and visualize it graphically. 
+
+Task 7:
+
+Develop A Neural Network That Can Read Handwriting:
+
+Begin your neural network machine learning project with the MNIST Handwritten Digit Classification Challenge and using Tensorflow and CNN. It has a very user-friendly interface that’s ideal for beginners. Dataset: https://en.wikipedia.org/wiki/MNIST_database 
