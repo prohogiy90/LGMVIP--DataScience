@@ -39,3 +39,10 @@ Task 7:
 Develop A Neural Network That Can Read Handwriting:
 
 Begin your neural network machine learning project with the MNIST Handwritten Digit Classification Challenge and using Tensorflow and CNN. It has a very user-friendly interface that’s ideal for beginners. Dataset: https://en.wikipedia.org/wiki/MNIST_database 
+
+Task 8:
+
+Next Word Prediction:
+
+Using Tensorflow and Keras library train a RNN, to predict the next word. 
+Dataset Link: https://drive.google.com/file/d/1GeUzNVqiixXHnTl8oNiQ2W3CynX_lsu2/view
