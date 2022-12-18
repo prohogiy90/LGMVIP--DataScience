@@ -18,6 +18,10 @@ Music Recommendation:
 Music recommender systems can suggest songs to users based on their listening patterns.
 Datasetlinks: https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
 
+Task 4:
+
+Image to Pencil Sketch with Python:
+
 Task 5:
 
 Exploratory Data Analysis on Dataset - Terrorism 
