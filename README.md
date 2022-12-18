@@ -32,5 +32,4 @@ Dataset: https://bit.ly/2TK5Xn5
 
 Task 6:
 
-Prediction using Decision Tree  Algorithm
-Create the Decision Tree classifier and visualize it graphically. 
+Prediction using Decision Tree  Algorithm. Create the Decision Tree classifier and visualize it graphically. 
