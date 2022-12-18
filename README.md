@@ -29,3 +29,9 @@ Exploratory Data Analysis on Dataset - Terrorism
 As a security/defense analyst, try to find out the hot zone of terrorism.
 You can choose any of the tool of your choice  
 Dataset: https://bit.ly/2TK5Xn5
+
+Task 6:
+
+Prediction using Decision Tree  Algorithm
+
+Create the Decision Tree classifier and visualize it graphically. 
