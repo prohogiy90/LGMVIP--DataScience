@@ -46,3 +46,10 @@ Next Word Prediction:
 
 Using Tensorflow and Keras library train a RNN, to predict the next word. 
 Dataset Link: https://drive.google.com/file/d/1GeUzNVqiixXHnTl8oNiQ2W3CynX_lsu2/view
+
+Task 9:
+
+Handwritten equation solver using CNN :
+
+Mathematical equation solver using character and symbol recognition using image processing and CNN. 
+DatasetLink: https://www.kaggle.com/xainano/handwrittenmathsymbols 
