@@ -1,4 +1,4 @@
-![image](https://drive.google.com/file/d/1BIFZjxkA443mbAgMyc9WOpYFluwlAyvr/view?usp=share_link)
+![https://drive.google.com/file/d/1BIFZjxkA443mbAgMyc9WOpYFluwlAyvr/view?usp=share_link]
 
 # LGMVIP--DataScience
 This repository contains my solutions to tasks from one month "Let's grow more"  Data Science internship.
