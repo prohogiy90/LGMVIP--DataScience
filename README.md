@@ -20,7 +20,7 @@ Datasetlinks: https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
 
 Task 4:
 
-Image to Pencil Sketch with Python:
+Image to Pencil Sketch with Python
 
 Task 5:
 
@@ -53,3 +53,9 @@ Handwritten equation solver using CNN :
 
 Mathematical equation solver using character and symbol recognition using image processing and CNN. 
 DatasetLink: https://www.kaggle.com/xainano/handwrittenmathsymbols 
+
+Task 10:
+
+ML Facial recognition to detect mood and suggest songs accordingly 
+
+DatasetLink: https://www.kaggle.com/datasets/msambare/fer2013
