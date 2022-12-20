@@ -20,7 +20,7 @@ Datasetlinks: https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
 
 Task 4:
 
-Image to Pencil Sketch with Python:
+Image to Pencil Sketch with Python
 
 Task 5:
 
