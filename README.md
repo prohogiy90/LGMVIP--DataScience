@@ -53,3 +53,9 @@ Handwritten equation solver using CNN :
 
 Mathematical equation solver using character and symbol recognition using image processing and CNN. 
 DatasetLink: https://www.kaggle.com/xainano/handwrittenmathsymbols 
+
+Task 10:
+
+ML Facial recognition to detect mood and suggest songs accordingly 
+
+DatasetLink: https://www.kaggle.com/datasets/msambare/fer2013
