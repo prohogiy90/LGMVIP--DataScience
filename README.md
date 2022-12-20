@@ -1,4 +1,5 @@
-![https://drive.google.com/file/d/1BIFZjxkA443mbAgMyc9WOpYFluwlAyvr/view?usp=share_link]
+![Artboard-1-1-removebg-preview-e1645900071758](https://user-images.githubusercontent.com/112937082/208756980-eeb5b496-b27a-45cb-81be-c803527b11a8.jpg)
+
 
 # LGMVIP--DataScience
 This repository contains my solutions to tasks from one month "Let's grow more"  Data Science internship.
